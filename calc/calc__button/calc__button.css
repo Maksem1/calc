@@ -1,0 +1,15 @@
+.calc__button {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: rgb(194, 194, 194);
+    text-align: center;
+    line-height: 60px;
+    user-select: none;
+}
+.calc__button:hover {
+    background: rgb(163, 163, 163); 
+}
+.calc__button:active {
+    background: rgb(200, 200, 200); 
+}
